@@ -1,0 +1,12 @@
+Package: Friedman
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Zachary", "Wright", , "zakkwright@yahoo.com", role = c("aut", "cre"))
+Description: "Tools for organizing and analyzing shipping and order data for small collectible businesses. 
+		With the intention of "
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
