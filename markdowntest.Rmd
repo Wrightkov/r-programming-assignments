@@ -1,0 +1,33 @@
+---
+title: "R markdown test"
+author: "Zakk Wright"
+date: "04/12/2026"
+output: html_document
+---
+
+#A brief introduction explaining what R Markdown is.
+
+R Markdown is a document that has interactive portions of code in it.
+
+
+A narrative paragraph in "markdown text" would be something like this that explains a chunk of information in a normal non code text. This is so you can explain what is going on or just ramble incoherently because you have no idea what to write.
+
+Latex math 
+$\alpha + \beta = \gamma$
+
+Equation:
+
+$$
+E = mc^2
+$$
+
+
+```{r}
+# Load a built-in dataset
+data(mtcars)
+
+# View summary statistics
+summary(mtcars)
+```
+
+I think something like R markdown could be really useful when doing a report with graphs or similar information in it. I think that it would take much more practice in order to use it fluently enough to warrant the time needed. Howver if one is copying code snippits for a paper this could be a much more 
